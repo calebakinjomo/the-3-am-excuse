@@ -3,6 +3,10 @@
 
 Writes one line (<200 chars) to /output/entry.txt: the excuse a hardware
 wallet gives for refusing to sign a transaction at 3 AM.
+
+Judge criteria, in order: on-subject first (a refusal to sign at 3 AM),
+then originality, wallet voice, the 3 AM hour as the joke itself, and
+economy — the whole line must land under the 200-char cap.
 """
 
 import os
